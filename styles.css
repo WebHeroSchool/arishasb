@@ -1,0 +1,26 @@
+.td1{
+	background: #f9c1da;
+	padding: 15px;	
+}
+
+.white{
+	color: white;
+}
+
+.black{
+	background: black;
+	color: white;
+}
+
+.pink{
+	color: #b7227e;
+}
+
+.letter{
+	color: #b7227e;
+	font-size: 48px;
+}
+
+.text{
+	font-size: 24px;
+}
